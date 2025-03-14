@@ -1,67 +1,48 @@
-To-Do List
+# ✅ To-Do List
 
-📌 Project Description
+A simple and efficient **To-Do List** web application built using **HTML**, **CSS**, and **JavaScript**. This project allows users to manage their daily tasks effectively with persistence through **local storage**.
 
-A simple To-Do List web application that allows users to add, mark as completed, and delete tasks. The tasks are stored in local storage, ensuring persistence even after refreshing the page.
+## ✨ Features
 
-🛠️ Features
+- 📝 Add tasks to the list.
+- ✅ Mark tasks as completed (strikethrough effect).
+- ❌ Remove tasks with a delete button (×).
+- 💾 Save tasks using **local storage** for persistence.
+- 🎨 Responsive and user-friendly interface.
 
-✅ Add tasks to the list
+## 🛠️ Technologies Used
 
-✍️ Mark tasks as completed (strikethrough effect)
+- **HTML** – Page structure.
+- **CSS** – Styling and layout.
+- **JavaScript** – Functionality and local storage management.
 
-❌ Remove tasks with a delete button (×)
+## 📂 Project Structure
 
-💾 Saves tasks using local storage
-
-🎨 Responsive and user-friendly UI
-
-🚀 Technologies Used
-
-HTML – Structure of the page
-
-CSS – Styling and layout
-
-JavaScript – Functionality and local storage management
-
-📂 Project Structure
-
+```
 📂 To-Do List Project
-├── 📄 index.html  # Main HTML file
-├── 🎨 style.css   # Styling file
-├── 📝 script.js   # JavaScript logic
-├── 📂 images      # Folder for images (icons, backgrounds, etc.)
+├── 📄 index.html   # Main HTML file
+├── 🎨 style.css    # Styling file
+├── 📝 script.js    # JavaScript logic
+├── 📂 images       # Folder for icons and other assets
+```
 
-🎯 How to Use
+## 🚀 How to Run
 
-Clone this repository:
+1. Download or clone the repository.
+2. Open `index.html` in your browser.
+3. Enter a task in the input field and click **Add**.
+4. Click on a task to mark it as completed.
+5. Click the **×** button to delete a task.
 
-git clone https://github.com/your-username/todo-list.git
+## 📊 Future Enhancements
 
-Open index.html in your browser.
+- 🌙 Add **Dark Mode**.
+- ⏰ Integrate **due dates & reminders**.
+- 📱 Enhance **mobile responsiveness**.
+- 🗂️ Support **categories & filtering**.
 
-Enter a task in the input field and click Add.
-
-Click on a task to mark it as completed.
-
-Click the × button to delete a task.
-
-📝 Future Enhancements
-
-🌐 Add Dark Mode
-
-📅 Integrate due dates & reminders
-
-📱 Improve mobile responsiveness
-
-🗂️ Support categories & filtering
-
-📸 Screenshots
-
-(Add screenshots of your project here)
-
-📌 License
+## 📌 License
 
 This project is open-source and free to use.
 
-💡 Happy Coding! 🚀
+### 💡 Happy Coding! 🚀
